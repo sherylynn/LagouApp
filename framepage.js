@@ -127,7 +127,7 @@ export default class FramePage extends Component {
 
     shouldComponentUpdate() {
         console.log("7.FramePage-shouldComponentUpdate()");
-        return false;
+        return true;
     }
 
     componentWillUpdate() {

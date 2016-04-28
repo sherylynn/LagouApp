@@ -1,3 +1,4 @@
+let items;
 export default items = [
     {
         id:1,

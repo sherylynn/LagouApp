@@ -1,6 +1,7 @@
 /**
  * Created by kenny on 16/3/8.
  */
+ let items;
 export default items = [
     {
         id: 1,
